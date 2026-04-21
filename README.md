@@ -22,3 +22,9 @@ Your key is generated — copy it
 Click "Edit API Key" to restrict it:
 
 Under API restrictions, select "Cloud Text-to-Speech API" only
+
+Step 3: Play with the code
+
+Pre-requicites : pip install requirements.txt
+Select and paste api key in the code
+
